@@ -11,6 +11,7 @@ const PORT = process.env.PORT || 3000;
 const allowedOrigins = [
   'http://127.0.0.1:5000',
   'https://bizzys.netlify.app',
+  'https://newbillogin.netlify.app',
   'https://mavoo.netlify.app',
   'https://bellogin.netlify.app',
   'https://inbellog.netlify.app',
