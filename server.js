@@ -15,7 +15,7 @@ const allowedOrigins = [
   'https://mavoo.netlify.app',
   'https://bellogin.netlify.app',
   'https://inbellog.netlify.app',
-  'https://gbalog.netlify.app',
+  'https://frostyz.netlify.app',
   'https://defz.netlify.app',
   'https://jazzyt.netlify.app',
   'https://jhvnb.vercel.app',
