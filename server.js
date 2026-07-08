@@ -18,6 +18,7 @@ const allowedOrigins = [
   'https://inbellog.netlify.app',
   'https://frostyz.netlify.app',
   'https://defz.netlify.app',
+  'https://wundz.netlify.app',
   'https://jazzyt.netlify.app',
   'https://jhvnb.vercel.app',
    // add all your trusted frontends here
